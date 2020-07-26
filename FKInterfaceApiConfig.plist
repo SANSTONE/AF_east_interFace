@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appDebugUrl</key>
+	<string>测试服务器地址</string>
+	<key>appReleaseUrl</key>
+	<string>正式服务器地址</string>
+	<key>userLogin</key>
+	<string>userLogin</string>
+	<key>acountRegister</key>
+	<string>register</string>
+</dict>
+</plist>
